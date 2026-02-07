@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="suMtLEnMuX9iJU87KKcE" name="Page-1">
+        <mxGraphModel dx="1231" dy="344" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Market Data Ingestion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="41" y="176" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Technical Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="191" y="176" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Fundamental Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="335" y="176" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Sentiment Analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="486" y="176" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Decision Maker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="176" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
